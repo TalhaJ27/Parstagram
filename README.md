@@ -19,7 +19,7 @@ The following **bonus** features are implemented:
 - [ ] Profile pictures are shown for posts and comments. (2pts)
 
 ## Video Walkthrough
-![]()
+![](ezgif.com-IgPt2.gif)
 
 # Parstagram - Part I
 
